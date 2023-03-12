@@ -1,0 +1,41 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		"0123456789",
+		"ABCDEFGHIJ",
+		"KLMNOPQRST",
+		"UVWXYZ:-"
+	],
+	"glyph-color": "auto",
+	"in-kerning": [
+		""
+	],
+	"glyph-width": 9,
+	"glyph-height": 13,
+	"glyph-ofs-x": 1,
+	"glyph-ofs-y": 1,
+	"glyph-sep-x": 1,
+	"glyph-sep-y": 1,
+	"glyph-base-x": 0,
+	"glyph-baseline": 7,
+	"glyph-spacing": 1,
+	"font-is-mono": false,
+	"font-em-square": 1024,
+	"font-line-gap": 0,
+	"font-ascend": 768,
+	"font-descend": -1280,
+	"font-px-size": 128,
+	"font-name": "Unortodox",
+	"font-author": "Williams Tambunan",
+	"font-copy": "(c)",
+	"font-version": "Version 0.1",
+	"font-desc": "Sweet fonts to leave your worries behind you",
+	"font-license": "You have the permission",
+	"font-license-url": "",
+	"font-sample-text": "QWERT",
+	"font-preview-text": [
+		"THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+		"0123456789: -"
+	]
+}
